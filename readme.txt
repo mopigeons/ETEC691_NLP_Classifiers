@@ -1,0 +1,5 @@
+
+TO RUN THIS CODE:
+The Python environment must include Python version 3.5, Numpy, Scikit-Learn and Keras (this code was written and tested using Keras with a Tensorflow backend). Numpy and Scikit Learn can be found within the Anaconda distribution of Python (available at https://anaconda.org/). Keras and Tensorflow must then be installed within a Python 3.5 environment. Instructions on installing Tensorflow can be found here: https://www.tensorflow.org/install/. Instructions on installing Keras can be found here: https://keras.io/#installation
+
+To execute this code, you will also need to download GloVe word embeddings and put them in a folder called "Glove" in the project's root directory (the embedding files are unfortunately too large to be hosted on GitHub). You can download the Glove embeddings from the following location: http://nlp.stanford.edu/data/glove.6B.zip  
